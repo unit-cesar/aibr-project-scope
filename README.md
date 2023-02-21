@@ -139,4 +139,4 @@
 ##### Em resumo, o Flutter é uma ferramenta poderosa para o desenvolvimento de aplicativos móveis de alta qualidade, permitindo que os desenvolvedores criem aplicativos em menos tempo e com menos esforço do que seria necessário com outras ferramentas.
 
 - Vídeo mais específico a respeito do Flutter:
-	- https://www.youtube.com/watch?v=YejIetyu5fU
+	- https://www.youtube.com/watch?v=YejIetyu5f
