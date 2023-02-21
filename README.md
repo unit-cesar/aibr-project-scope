@@ -25,10 +25,8 @@
 #### Sobre o Desenvolvimento:
 
 - [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html)
-![Manifesto para Desenvolvimento Ágil de Software](https://images2.imgbox.com/de/03/pgUF3x1Z_o.png)
 
-- [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/principles.html)
-		![Manifesto para Desenvolvimento Ágil de Software](https://images2.imgbox.com/20/69/UUr8ucee_o.png)
+- [Princípios por trás do Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/principles.html)
 
 #### Free and Open Source
 
