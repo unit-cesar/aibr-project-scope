@@ -10,13 +10,13 @@
 
 - [Objetivo](#)
 - [Conceitos Gerais](#conceitos-gerais)
-- [Tecnologia disruptiva](#tecnologia-disruptiva)
+- [Tecnologia Disruptiva](#tecnologia-disruptiva)
 - [Estratégia](#)
 - [Aplicações Sugeridas](#marketplace)
-- [Formas de distribuição](#)
-- [Formas de suporte](#)
+- [Formas de Distribuição](#)
+- [Formas de Suporte](#)
 - [Tecnologias Utilizadas](#Techs-utilizadas)
-- [Fontes de renda extra](#)
+- [Fontes de renda Extra](#)
 - [Primeiros Passos](#seu-perfil--portfólio)
 
 ## Conceitos Gerais
