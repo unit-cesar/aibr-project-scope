@@ -8,15 +8,16 @@
 
 ## Tópicos do Projeto
 
-- Objetivo
-- Conceitos Gerais
-- Tecnologia disruptiva (Diferencial)
-- Estratégia
-- Aplicações Sugeridas
-- Formas de distribuição
-- Formas de suporte
-- Fontes de renda extra
-- Primeiros Passos
+- [Objetivo](#)
+- [Conceitos Gerais](#conceitos-gerais)
+- [Tecnologia disruptiva](#tecnologia-disruptiva)
+- [Estratégia](#)
+- [Aplicações Sugeridas](#marketplace)
+- [Formas de distribuição](#)
+- [Formas de suporte](#)
+- [Tecnologias Utilizadas](#Techs-utilizadas)
+- [Fontes de renda extra](#)
+- [Primeiros Passos](#seu-perfil--portfólio)
 
 ## Conceitos Gerais
 
@@ -26,24 +27,47 @@
 
 - [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
-- [Princípios por trás do Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/principles.html)
+- [Princípios por trás do Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/principles.html):
+<ol>
+	<li>Satisfação do cliente através de <strong>entrega contínua;</strong>
+	<li>Mudanças são bem-vindas;
+	<li>Entrega de <strong>Software funcional com frequência;</strong>
+	<li>Executivos e desenvolvedores <strong>trabalham em conjunto;</strong>
+	<li>Desenvolvimento de <strong>projetos em torno de pessoas motivadas;</strong>
+	<li>O método mais e eficaz de transmitir informações para e entre uma equipe de desenvolvimento é por meio de <strong>conversa face a face;</strong>
+	<li>Progresso medido através de <strong>Softwares funcionais;</strong>
+	<li>Desenvolvimento <strong>constante e sustentável;<strong>
+	<li>Excelência Técnica acima de tudo;
+	<li>Simplicidade;
+	<li>Times <strong>Autogerenciáveis;</strong>
+	<li>Busca <strong>pela Efetividade.</strong>
+</ol>
 
-#### Free and Open Source
+### Tecnologia disruptiva:
 
-- Qual a diferença entre Software Livre (Free) e Código Aberto (Open Source)?
-> Embora os termos "software livre" e "open source" sejam frequentemente usados como sinônimos, eles não são exatamente a mesma coisa. Ambos se referem a softwares com código-fonte aberto, que permite que qualquer pessoa possa acessar e modificar o código-fonte do software, mas existem algumas diferenças sutis entre eles.
+- Free and Open Source
+	- Qual a diferença entre Software Livre (Free) e Código Aberto (Open Source)?
+	> Embora os termos "software livre" e "open source" sejam frequentemente usados como sinônimos, eles não são exatamente a mesma coisa. Ambos se referem a softwares com código-fonte aberto, que permite que qualquer pessoa possa acessar e modificar o código-fonte do software, mas existem algumas diferenças sutis entre eles.
 
-	- SOFTWARE LIVRE (FREE)
+		🔸 SOFTWARE LIVRE (FREE)
 
-> O software livre é um movimento social que defende a liberdade dos usuários de software. O foco principal do movimento é garantir que os usuários tenham a liberdade de usar, estudar, modificar e distribuir o software, o que geralmente é acompanhado por uma licença que impõe algumas restrições para garantir que essas liberdades sejam mantidas. O software livre é frequentemente associado ao GNU Project e à Free Software Foundation (FSF), que criaram a GNU General Public License (GPL), uma das licenças de software livre mais usadas. 
+	> O software livre é um movimento social que defende a liberdade dos usuários de software. O foco principal do movimento é garantir que os usuários tenham a liberdade de usar, estudar, modificar e distribuir o software, o que geralmente é acompanhado por uma licença que impõe algumas restrições para garantir que essas liberdades sejam mantidas. O software livre é frequentemente associado ao GNU Project e à Free Software Foundation (FSF), que criaram a GNU General Public License (GPL), uma das licenças de software livre mais usadas. 
 
-	- CÓDIGO ABERTO (OPEN SOURCE)
-> O open source, por outro lado, é um modelo de desenvolvimento de software que enfatiza a colaboração e o compartilhamento de código. O foco principal do movimento é incentivar o desenvolvimento colaborativo, garantindo que o código-fonte seja disponibilizado publicamente, permitindo que qualquer pessoa possa visualizá-lo, modificá-lo e redistribuí-lo, geralmente com menos restrições do que as licenças de software livre. O termo "open source" foi criado em 1998 por um grupo de indivíduos que desejava promover o desenvolvimento de software com código-fonte aberto, mas que acreditavam que o termo "software livre" tinha uma conotação política e ideológica.
+		🔸 CÓDIGO ABERTO (OPEN SOURCE)
+	> O open source, por outro lado, é um modelo de desenvolvimento de software que enfatiza a colaboração e o compartilhamento de código. O foco principal do movimento é incentivar o desenvolvimento colaborativo, garantindo que o código-fonte seja disponibilizado publicamente, permitindo que qualquer pessoa possa visualizá-lo, modificá-lo e redistribuí-lo, geralmente com menos restrições do que as licenças de software livre. O termo "open source" foi criado em 1998 por um grupo de indivíduos que desejava promover o desenvolvimento de software com código-fonte aberto, mas que acreditavam que o termo "software livre" tinha uma conotação política e ideológica.
 
-	- Resumo
-> Em resumo, enquanto o software livre é mais um movimento social que promove as liberdades dos usuários de software, o código aberto é mais um modelo de desenvolvimento que enfatiza a colaboração e o compartilhamento de código. Ambos os termos se referem a softwares com código-fonte aberto, mas existem algumas diferenças sutis em relação a como os softwares são simultâneos e licenciados.
+		- Resumo
+	> Em resumo, enquanto o software livre é mais um movimento social que promove as liberdades dos usuários de software, o código aberto é mais um modelo de desenvolvimento que enfatiza a colaboração e o compartilhamento de código. Ambos os termos se referem a softwares com código-fonte aberto, mas existem algumas diferenças sutis em relação a como os softwares são simultâneos e licenciados.
 
-#### Marketplace
+- Qual será o tipo de licença utilizado no projeto?	
+	- MIT License
+		- Quais são os termos da MIT License licença? 
+
+		> A permissão é concedida gratuitamente a qualquer pessoa que obtenha uma cópia do software e arquivos de documentação associados para negociar o software sem restrições, incluindo sem limitação os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software e permitir que as pessoas a quem o Software é fornecido o façam, sujeito a as seguintes condições: </br></br>
+		>O aviso de direitos autorais e este aviso de permissão devem ser incluídos em TODAS as cópias ou partes substanciais do Software.</br></br>
+		>Em suma, o projeto será com base no Software livre e de Código aberto, licenciado de forma permissiva sob a MIT License, dando permissão para fazer cópias e total liberdade de como distribuir a aplicação, com código fechado ou aberto. Porém, sendo obrigado a fazer referência da origem, dando os créditos aos desenvolvedores do código original da aplicação, extensão, ou do aplicativo mobile e também não poderá alterar o tipo de licença em aplicações derivadas. 
+
+### Marketplace
 - O que é um Marketplace?
 > Um marketplace é uma plataforma digital que conecta compradores e vendedores em um ambiente online, permitindo a realização de transações comerciais. Ele pode ser considerado um shopping virtual que reúne diversos fornecedores em um só lugar, permitindo que os consumidores encontrem uma ampla variedade de produtos e serviços em um único local.
 
@@ -62,7 +86,7 @@
 
 	##### Ufa, agora que sabemos os principais modelos de Marketplace, sabemos do que se trata e qual rumo o projeto irá tomar.
 
-#### Seu Perfil & Portfólio 
+### Seu Perfil & Portfólio 
 
 > Com todas essas informações agora vamos cuidar melhor do seu perfil.
 
@@ -84,9 +108,9 @@
 	- https://www.youtube.com/watch?v=DqTITcMq68k
 	- https://www.youtube.com/watch?v=UBAX-13g8OM
 
-#### Framework
+### Framework
 
-##### O que são frameworks?
+#### O que são frameworks?
 
 > Um framework é uma estrutura que serve de base para a construção de aplicações web de finalidade específica cujo desenvolvimento pode ser muito custoso e/ou problemático. Com um framework é possível construir sites, aplicativos e softwares a partir de um esqueleto pré-definido, alterando apenas demais particularidades.
 
@@ -124,9 +148,9 @@
 	- **PHP 8.0**: trouxe melhorias de desempenho em relação às versões anteriores do PHP, além de adicionar novos recursos, como "Named Arguments", "Union Types", "Constructor Property Promotion" e "Match Expression".
 	> Em resumo, cada versão do PHP traz melhorias e novos recursos para a linguagem, tornando-a cada vez mais poderosa e útil para o desenvolvimento de aplicações web.
 
-#### Flutter
+### Flutter
 
-##### Partindo para Flutter, o que seria esse framework?
+#### Partindo para Flutter, o que seria esse framework?
 
 > Flutter é um framework de desenvolvimento de aplicativos móveis lançado pela Google em 2017. Ele permite desenvolver aplicativos nativos para iOS e Android usando uma única base de código, escrita em Dart, uma linguagem de programação criada pela Google.
 
