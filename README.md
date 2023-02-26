@@ -180,10 +180,10 @@
 		- JQquery;
 		- Cordova;
 		- Electron;
+	<br><br>
+	>Em suma, o JavaScript é uma linguagem de programação de alto nível e é baseada em ECMAScript padronizada pela Ecma international, ela é uma das principais utilizadas em aplicações web, isso porque se destaca por deixar as páginas Web dinâmicas, que é sua principal função. Ademais, o JavaScript é considerada uma linguagem leve, versátil, de fácil compreensão e com uma grande base de comunidade colaborativa.
 
-		>Em suma, o JavaScript é uma linguagem de programação de alto nível e é baseada em ECMAScript padronizada pela Ecma international, ela é uma das principais utilizadas em aplicações web, isso porque se destaca por deixar as páginas Web dinâmicas, que é sua principal função. Ademais, o JavaScript é considerada uma linguagem leve, versátil, de fácil compreensão e com uma grande base de comunidade colaborativa.
-
-	- Recomendação de vídeo e artigos explicando um pouco mais sobre a linaguem:
+	- Recomendações de vídeos e artigos explicando um pouco mais sobre a linguagem:
 		
 	- [Vídeo: O que é JavaScript?](https://www.youtube.com/watch?v=NaVSbnnV75Q)
 		- [Artigo: O tutorial do JavaScript Moderno](https://javascript.info/)
@@ -232,7 +232,7 @@
 
 	- Facilidade em trabalhar;
 	- Desenvolvimento multiplataforma;
-	- Maior alcance de usários;
+	- Maior alcance de usuários;
 	- Componentes pré-desenvolvidos/nativos;
 	- Custo de manutenção menor;
 	- Ambiente de trabalho;
@@ -244,8 +244,9 @@
 	- Dependência no Facebook;
 	- Sem módulos personalizados;
 	- Problemas de compatibilidade;
-		
-		> Em resumo, o React Native é um framework JavaScript que permite o desenvolvimento de aplicativos móveis nativos para Android e iOS utilizando a mesma base de código. Ele foi criado pelo Facebook em 2015 e é baseado no React, um framework utilizado para construir aplicações web. Com o React Native, os desenvolvedores podem escrever código em JavaScript e utilizar componentes pré-construídos para criar interfaces de usuário para seus aplicativos móveis. O React Native permite que os aplicativos sejam desenvolvidos de maneira rápida e eficiente e com um menor custo de manutenção. 
+	<br><br>
+
+	> Em resumo, o React Native é um framework JavaScript que permite o desenvolvimento de aplicativos móveis nativos para Android e iOS utilizando a mesma base de código. Ele foi criado pelo Facebook em 2015 e é baseado no React, um framework utilizado para construir aplicações web. Com o React Native, os desenvolvedores podem escrever código em JavaScript e utilizar componentes pré-construídos para criar interfaces de usuário para seus aplicativos móveis. O React Native permite que os aplicativos sejam desenvolvidos de maneira rápida e eficiente e com um menor custo de manutenção. 
 
 - Recomendações de vídeos e artigos explicando um pouco mais sobre o React Native:
 		
@@ -257,7 +258,7 @@
 
 - Diferenças entre React e React Native:
 
-	- O React.js é conhecido como React ou o ReactJS, ele é uma biblioteca do JavaScript utilizado para desenvolvimento de aplicações web, enquanto o React Native é um framework utilizado para desenvolvimento de aplicativos móveis nativos para Android e iOS. 
+	- O React.js é conhecido como React ou o ReactJS, ele é uma biblioteca do JavaScript utilizado para desenvolvimento de aplicações web, enquanto o React Native é um framework utilizado para desenvolvimento de aplicativos móveis nativos para Android e iOS.<br><br>
 	
-	> Enquanto o React é voltado para o desenvolvimento de aplicações web que são executadas no navegador, o React Native é voltado para o desenvolvimento de aplicativos móveis nativos que são executados diretamente no sistema operacional do dispositivo móvel. <br><br>
-	> Além disso, o React Native utiliza componentes específicos par dispositivos móveis, que são diferentes dos componentes utilizados no React para aplicações web. Isso ocorre porque as interfaces de usuário de aplicativos móveis e web têm diferenças significativas, como tamanho de tela e interação do usuário. Apesar dessas diferenças, a sintaxe e a estrutura dos componentes em ambos os frameworks são semelhantes, o que permite que os desenvolvedores que já conhecem o React possam aprender o React Native com facilidade.
+		> Enquanto o React é voltado para o desenvolvimento de aplicações web que são executadas no navegador, o React Native é voltado para o desenvolvimento de aplicativos móveis nativos que são executados diretamente no sistema operacional do dispositivo móvel. <br><br>
+		> Além disso, o React Native utiliza componentes específicos par dispositivos móveis, que são diferentes dos componentes utilizados no React para aplicações web. Isso ocorre porque as interfaces de usuário de aplicativos móveis e web têm diferenças significativas, como tamanho de tela e interação do usuário. Apesar dessas diferenças, a sintaxe e a estrutura dos componentes em ambos os frameworks são semelhantes, o que permite que os desenvolvedores que já conhecem o React possam aprender o React Native com facilidade.
