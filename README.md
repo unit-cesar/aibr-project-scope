@@ -1,8 +1,10 @@
-# Aimeos Brasil - Open Source
+# <img src="img/icon.png" width="36"> Aimeos Brasil - Open Source
 
-![preview](img/icon.png)
+![preview](img/logo.png)
 
-# Project Scope
+
+
+# Escopo do Projeto
 
 > **O que é escopo?** No gerenciamento de projetos, escopo são os recursos e funções definidos de um produto ou o escopo do trabalho necessário para concluir um projeto. O escopo envolve obter as informações necessárias para iniciar um projeto, incluindo os recursos que o produto precisa para atender aos requisitos das partes interessadas.
 
@@ -264,10 +266,9 @@
 		> Enquanto o React é voltado para o desenvolvimento de aplicações web que são executadas no navegador, o React Native é voltado para o desenvolvimento de aplicativos móveis nativos que são executados diretamente no sistema operacional do dispositivo móvel. <br><br>
 		> Além disso, o React Native utiliza componentes específicos par dispositivos móveis, que são diferentes dos componentes utilizados no React para aplicações web. Isso ocorre porque as interfaces de usuário de aplicativos móveis e web têm diferenças significativas, como tamanho de tela e interação do usuário. Apesar dessas diferenças, a sintaxe e a estrutura dos componentes em ambos os frameworks são semelhantes, o que permite que os desenvolvedores que já conhecem o React possam aprender o React Native com facilidade.
 		
-		 <br><br>
-		 # A metodologia dos 9 pilares do e-commerce
+## A metodologia dos 9 pilares do e-commerce
 		 
-		 ## A metodologia dos Nove Pilares dá base a todo o trabalho de E-commerce.
+### A metodologia dos Nove Pilares dá base a todo o trabalho de E-commerce.
 
 Esta metodologia ficou conhecida pelo "Guia de E-commerce" desenvolvido pelo SEBRAE, projeto liderado por Thiago Sarraf e embasado por anos de experiência no mercado. São os pilares:
 
@@ -281,5 +282,15 @@ Esta metodologia ficou conhecida pelo "Guia de E-commerce" desenvolvido pelo SEB
 [x] Selos e Segurança<br>
 [x] Marketing
 
+## 💪 Contribuidores da Comunidade
 
+##### Um mundo livre e aberto depende de sistemas, de aplicativos e da web livres e abertos.
+
+##### Nossa missão é contribuir para o mundo tecnologicamente Open Source.
+
+<a href="https://github.com/unit-cesar/aibr-project-scope/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=unit-cesar/aibr-project-scope" />
+</a>
+
+#### Continuem arrasando!!! 🥂
 		 
