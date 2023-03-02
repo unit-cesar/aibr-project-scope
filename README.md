@@ -1,8 +1,6 @@
-# <img src="img/icon.png" width="36"> Aimeos Brasil - Open Source
+# <img src="img/icon.png" width="36"> Aimeos Brasil
 
 ![preview](img/logo.png)
-
-
 
 # Escopo do Projeto
 
